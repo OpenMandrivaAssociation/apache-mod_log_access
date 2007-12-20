@@ -20,6 +20,7 @@ Requires:	apache-conf >= 2.2.0
 Requires:	apache >= 2.2.0
 BuildRequires:	apache-devel >= 2.2.0
 BuildRequires:	file
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 mod_log_access is an Apache 2.2.x module, which provides:
