@@ -6,7 +6,7 @@
 Summary:	A apache 2.2 module for custom log formats
 Name:		apache-%{mod_name}
 Version:	1.03
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		System/Servers
 License:	Apache License
 URL:		http://www.gjvc.com/software/apache/modules/
