@@ -9,7 +9,7 @@ Version:	1.03
 Release:	%mkrel 6
 Group:		System/Servers
 License:	Apache License
-URL:		http://www.gjvc.com/software/apache/modules/
+URL:		https://www.gjvc.com/software/apache/modules/
 Source0:	http://www.gjvc.com/software/apache/modules/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
